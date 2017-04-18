@@ -1,0 +1,2 @@
+要改GA_crossover.py中"user define"為計算child fitness，由使用者定義，需將計算方式寫在evaluate_fitness.py中
+要改GA_mutation.py中"user define"為計算變異後的fitness，需將計算方式寫在evaluate_fitness.py中

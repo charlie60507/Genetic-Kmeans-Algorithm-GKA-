@@ -1,0 +1,11 @@
+[vars]
+
+# k-means parameter
+kmax = 5	;Maximun number of Clusters 最多的群數
+
+# GA parameter
+budget = 20000	;budget of calculating fitness function 計算適應度函數的次數限制
+Npop = 20	;Number of Individual 產生多少條染色體
+Ps = 0.2	;Probability of Ranking Selection 選擇率
+Pc = 0.8	;Probability of Crossover 交配率
+Pm = 0.02	;Probability of Mutation 變異率
